@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rick Usui
--   21 years old/ male/ 178cm/ from Japan
+        21 years old/ male/ 178cm/ from Japan
 - 👀 I’m interested in camping, playing game, and cooking.
         ex- eFootball2022, pokemon, splatoon2 etc...  
 - 🌱 I’m currently learning Java script and computer science.
