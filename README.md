@@ -1,19 +1,31 @@
+<link rel="stylesheet" href="style.css" />
+
 # Rick's RESUME
 
+[ English | [日本語]()]
 ## About me
-
 ### Rick Usui
-Japanese, Tokyo <br>
+Japanese, Tokyo
+
 +81 80-1347-7717 | rick.2000u@gmail.com <br>
 [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com/in/ricccck-usui/)
 
+
 ## Skills
+
+<div class="column-left">
+
 ### Coding Languages
 - Strong
     - JavaScript
 - Experienced 
     - Java (little bit)
     - Python
+    - 
+
+</div>
+
+<div class="column-right">
 
 ### Frameworks
 - Strong
@@ -22,6 +34,11 @@ Japanese, Tokyo <br>
     - HTML
 - Experienced
     - PyGame
+
+</div>
+
+
+<div class="column-left">
 
 ### Front-end
 - Strong
@@ -34,6 +51,10 @@ Japanese, Tokyo <br>
     - SASS
     - Boostrap.js
     - Bulma
+
+</div>
+
+<div class="column-left">
 
 ### Back-end
 - Strong
@@ -49,6 +70,10 @@ Japanese, Tokyo <br>
 - Experienced
     - Amazon Web Services
 
+</div>
+
+<div class="column-one">
+
 ### Development Tools
 - Render.com
 - Visual Studio Code
@@ -60,5 +85,5 @@ Japanese, Tokyo <br>
 
 ## Projects
 ### Mealtime (https://github.com/MudaZero-org/Mealtime-FE)
-Feb 2022
+<div>Feb 2022</div>
 
