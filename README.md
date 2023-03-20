@@ -1,8 +1,11 @@
 <link rel="stylesheet" href="style.css" />
 
-# Rick's RESUME
 
-[ English | [日本語]()]
+# Rick's RESUME
+[ English | [日本語](https://github.com/Ricccck/Ricccck/blob/main/README.ja.md)]
+
+<div class="column-one">
+
 ## About me
 ### Rick Usui
 Japanese, Tokyo
@@ -10,6 +13,7 @@ Japanese, Tokyo
 +81 80-1347-7717 | rick.2000u@gmail.com <br>
 [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com/in/ricccck-usui/)
 
+</div>
 
 ## Skills
 
@@ -84,6 +88,7 @@ Japanese, Tokyo
 - English
 
 ## Projects
-### Mealtime (https://github.com/MudaZero-org/Mealtime-FE)
-<div>Feb 2022</div>
 
+### Mealtime (https://github.com/MudaZero-org/Mealtime-FE)
+
+<div class="">Feb 2022</div>

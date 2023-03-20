@@ -15,3 +15,11 @@
   width: 100%;
   text-align: left;
 }
+
+.date{
+  text-align: right;
+}
+
+.flex{
+  display: flex;
+}
