@@ -4,56 +4,40 @@
 [ [English](https://github.com/Ricccck/Ricccck/blob/main/README.md) | 日本語 ]
 
 
-## 自身について
+## About me
 ### 名前：臼井　陸
-出身：日本人（日本語），東京
+国立市、東京
 
-電話番号：  +81 80-1347-7717 <br>
+電話番号：  080-1347-7717 <br>
 メールアドレス：  rick.2000u@gmail.com <br>
-URL： [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com/in/ricccck-usui/)
+URL： [GitHub](https://github.com/Ricccck) | [LinkedIn](https://www.linkedin.com/in/ricccck-usui/)
 
 
 ## スキル
 ### プログラミング言語
-- 得意
-    - JavaScript
-- 経験あり
-    - Java (little bit)
-    - Python
+JavaScript | Java | Python
 
-### フレームワーク
-- 得意
-    - Node.js
-    - React.js
-    - HTML
-- 経験あり
-    - PyGame
 
 ### フロントエンド
-- 得意
-    - Node.js
-    - React.js
-    - HTML
-    - CSS
-    - Material UI
- - 経験あり
-    - SASS
-    - Boostrap.js
-    - Bulma
+- Node.js
+- React.js
+- HTML / CSS
+- Material UI
+- SASS
+- Boostrap.js
+- Bulma
 
 ### バックエンド
-- 得意
-    - Node.js
-    - Express.js
-    - Socket.io
-    - knex.js
-    - PostgreSQL
-    - JWT
-    - dotenv
-    - bcrypt
-    - axios
-- 経験あり
-    - Amazon Web Services
+- Node.js
+- Express.js
+- Socket.io
+- knex.js
+- PostgreSQL
+- JWT
+- dotenv
+- bcrypt
+- axios
+- Amazon Web Services
 
 ### 開発ツール
 - Render.com
@@ -63,6 +47,9 @@ URL： [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com
 ### 使用言語
 - 日本語
 - 英語
+  - 英検2級
+  - IELTS B1
+  - 一年間のオーストラリア留学
 
 
 ## プロジェクト
@@ -70,9 +57,10 @@ URL： [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com
 <div class="date">2月 2023</div>
 
 *ビジネスの機会を増やすことで、食糧廃棄問題に一石を投じる、を目標に作成された企業向けアプリ。企業はこのアプリを使用することで、APIからレシピを取得することができる。また、自身の商品に添付できるPDFファイルの作成も可能である。使用者は、手軽に食事パックを作成することができ、QRコードのついたPDFファイルを印刷することで消費者は簡単にレシピを見ることができる。*
+*4人のチームによるチームプロジェクト*
 
-[フロントエンド　レポジトリ](https://github.com/MudaZero-org/Mealtime-FE) | 
-[バックエンド　レポジトリ](https://github.com/MudaZero-org/Mealtime-BE) | 
+[フロントエンドレポジトリ](https://github.com/MudaZero-org/Mealtime-FE) | 
+[バックエンドレポジトリ](https://github.com/MudaZero-org/Mealtime-BE) | 
 [レンダリング済サイト](www.mealtime-web.com)
 
 #### 開発における役割
@@ -84,11 +72,11 @@ URL： [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com
 
 
 ### ReAnicaiton(ソロプロジェクト) (https://github.com/Ricccck/ReAnication)
-<div class="date">11.2022</div>
+<div class="date">11月 2022</div>
 
 *ReAnicationは、リアルタイムで更新されるチャットを活用することでアニメ作品に対する感想を、見ず知らずの人と共有し、盛り上がることのできる場を提供します。*
 
-[フロント・バックエンド　レポジトリ](https://github.com/Ricccck/ReAnication)
+[フロント・バックエンドレポジトリ](https://github.com/Ricccck/ReAnication)
 
 #### 開発における役割
 - アプリ自体の発想・企画
@@ -97,13 +85,13 @@ URL： [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com
 - Socket.ioを用いて、リアルタイムの双方向通信を実現
 - jwtの実装によるログイン機能の追加
 
-### saga(Legacy Project) (https://github.com/ccp6-team3/Legecy-saga)
-<div class="date">11.2022</div>
+### saga(継続プロジェクト) (https://github.com/ccp6-team3/Legecy-saga)
+<div class="date">11月 2022</div>
 
 *sagaは、人気の映画やテレビ番組を一箇所で検索し、自分のレビューを残すことができるように設計されたアプリケーションです。*<br>
 *このプロジェクトは、他チームからのレガシー(引き継ぎ)プロジェクトです。*
 
-[Front end & Back end Repository](https://github.com/ccp6-team3/Legecy-saga)
+[フロント・バックエンドレポジトリ](https://github.com/ccp6-team3/Legecy-saga)
 
 #### 開発における役割
 - JWTを利用してサインアップ、サインイン、サインアウト機能を作成。
@@ -114,10 +102,17 @@ URL： [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com
 
 ## 教育・研修・資格取得
 ### ダブルメジャー - 情報科学専攻
+38単位取得
+- プログラミングI・IIにてJavaを学習
+- WebページプログラミングにてHTML・CSSを利用してWebページを作成
+- 
+
 桜美林大学 | 4.2021 - 3.2023
 
-### ダブルメジャー - メディア
+### ダブルメジャー - メディア専攻
+
 桜美林大学 | 4.2021 - 3.2023
 
-### Full Stack development with agile methodologies
-Code Chrysalis | 7.2022 - 2.2023
+### Advanced Engneering Program
+- Full Stack development with agile methodologies
+Code Chrysalis | Tokyo | 7.2022 - 2.2023
