@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css" />
 
-# Rick's RESUME
+# レジュメ
 [ [English](https://github.com/Ricccck/Ricccck/blob/main/README.md) | 日本語 ]
 
 
