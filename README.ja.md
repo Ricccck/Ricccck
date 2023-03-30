@@ -90,8 +90,8 @@ Render.com | Visual Studio Code | Git / GitHub
 - **『Webページプログラミング』** にて、HTML・CSSを利用してWebページを作成
 - **『マルチメディア表現I』** にて、Photoshop、Illustratorを使用して画像作品を多数作成
 - **『マルチメディア表現II』** にて、Premiere Pro、Audition、Photoshopを使用して映像作品を多数作成
-- **『データベースI』**にて、Accessを利用してデータベースの基礎を学習
-- **『応用表計算』**にて、Excelの使用方法を学習
+- **『データベースI』** にて、Accessを利用してデータベースの基礎を学習
+- **『応用表計算』** にて、Excelの使用方法を学習
 
 ### メディア専攻（ダブルメジャー）
 桜美林大学 | 4.2021 - 3.2023
