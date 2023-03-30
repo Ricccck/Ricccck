@@ -22,7 +22,7 @@ JavaScript | Java | Python
 Node.js | React.js | HTML / CSS | Material UI | SASS | Boostrap.js | Bulma
 
 ### バックエンド
-Node.js | Express.js | Socket.io | knex.js | PostgreSQL | JWT | dotenv | bcrypt | axios | Amazon Web Services
+Node.js | Express.js | Socket.io | knex.js | PostgreSQL <br> JWT | dotenv | bcrypt | axios | Amazon Web Services
 
 ### 開発ツール
 Render.com | Visual Studio Code | Git / GitHub
