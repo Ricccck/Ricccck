@@ -17,7 +17,6 @@ URL： [GitHub](https://github.com/Ricccck) | [LinkedIn](https://www.linkedin.co
 ### プログラミング言語
 JavaScript | Java | Python
 
-
 ### フロントエンド
 Node.js | React.js | HTML / CSS | Material UI | SASS | Boostrap.js | Bulma
 

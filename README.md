@@ -14,51 +14,16 @@ Japanese, Tokyo
 
 ## Skills
 ### Coding Languages
-- Strong
-    - JavaScript
-- Experienced 
-    - Java (little bit)
-    - Python
-    - 
-
-### Frameworks
-- Strong
-    - Node.js
-    - React.js
-    - HTML
-- Experienced
-    - PyGame
+JavaScript | Java | Python
 
 ### Front-end
-- Strong
-    - Node.js
-    - React.js
-    - HTML
-    - CSS
-    - Material UI
- - Experienced
-    - SASS
-    - Boostrap.js
-    - Bulma
+Node.js | React.js | HTML / CSS | Material UI | SASS | Boostrap.js | Bulma
 
 ### Back-end
-- Strong
-    - Node.js
-    - Express.js
-    - Socket.io
-    - knex.js
-    - PostgreSQL
-    - JWT
-    - dotenv
-    - bcrypt
-    - axios
-- Experienced
-    - Amazon Web Services
+Node.js | Express.js | Socket.io | knex.js | PostgreSQL <br> JWT | dotenv | bcrypt | axios | Amazon Web Services
 
 ### Development Tools
-- Render.com
-- Visual Studio Code
-- Git / GitHub
+Render.com | Visual Studio Code | Git / GitHub
 
 ### Spoken Language
 - Japanese(Native)
@@ -66,7 +31,7 @@ Japanese, Tokyo
 
 
 ## Projects
-### Mealtime (https://github.com/MudaZero-org)
+### **Mealtime** (https://github.com/MudaZero-org)
 <div class="date">Feb 2023</div>
 
 *Mealtime gives businesses the ability to generate ready-to-cook meal packs to sell to their customers.*
@@ -82,7 +47,7 @@ Japanese, Tokyo
 - While developping, improve many  HTTP routes.
 - Improve UI by using Bulma, Sass, Boostraps.
 
-### ReAnicaiton(Solo Project) (https://github.com/Ricccck/ReAnication)
+### **ReAnicaiton**(Solo Project) (https://github.com/Ricccck/ReAnication)
 <div class="date">Nov 2022</div>
 
 *ReAnication gives you the place that can comunicate with other people. Chat will updates with real time*
@@ -97,7 +62,7 @@ Japanese, Tokyo
 - Create sign up, sign in, sign out functions by using JWT. 
 - Develoyed software to Render.com
 
-### saga(Legacy Project) (https://github.com/ccp6-team3/Legecy-saga)
+### **saga**(Legacy Project) (https://github.com/ccp6-team3/Legecy-saga)
 <div class="date">Nov 2022</div>
 
 *saga is an application designed to give users one location to find popular movies and tv shows and leave their own reviews.*<br>
@@ -113,11 +78,20 @@ Japanese, Tokyo
 
 
 ## Education, Training, and Certification
-### Double Major - Information science
+### Double Major - **Information Science**
 Obirin Univ. | Apr 2021 - Mar 2023
+- Learned basic concepts and fundamentals of Java in "Programming I & II".
+- Create web pages using HTML and CSS in "Web Page Programming".
+- Created many image works using Photoshop and Illustrator in "Multimedia Expression I".
+- Created many video works using Premiere Pro, Audition, and Photoshop in "Multimedia Expression II".
+- Learn the basics of databases using Access in "Database I".
+- Learn how to use Excel in "Applied Spreadsheet".
 
-### Double Major - Media
+### Double Major - **Media**
 Obirin Univ. | Apr 2021 - Mar 2023
+- Created and presented a lesson on information literacy for junior high school students in "Children and Media".
+- Learned about gender issues and representations of women in "Women and Media".
 
-### Full Stack development with agile methodologies
-Code Chrysalis | July 2022 - Feb 2023
+### Advanced Engneering Program
+Code Chrysalis | Tokyo | 7.2022 - 2.2023
+- Full Stack development with agile methodologies
