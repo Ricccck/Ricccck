@@ -8,7 +8,6 @@
 ### 名前：臼井　陸
 国立市、東京
 
-電話番号： 080-1347-7717 <br>
 メールアドレス： rick.2000u@gmail.com <br>
 URL： [GitHub](https://github.com/Ricccck) | [LinkedIn](https://www.linkedin.com/in/ricccck-usui/)
 
@@ -18,16 +17,15 @@ URL： [GitHub](https://github.com/Ricccck) | [LinkedIn](https://www.linkedin.co
 JavaScript | Java | Python
 
 ### フロントエンド
-Node.js | React.js | HTML / CSS | Material UI | SASS | Boostrap.js | Bulma
+React.js | HTML/CSS | Material UI | SASS | Boostrap | Bulma | axios
 
 ### バックエンド
-Node.js | Express.js | Socket.io | knex.js | PostgreSQL <br> JWT | dotenv | bcrypt | axios | Amazon Web Services
+Node.js | Express.js | Socket.io | knex.js | PostgreSQL <br> JWT | dotenv | bcrypt | axios | AWS | Render.com 
 
 ### 開発ツール
-Render.com | Visual Studio Code | Git / GitHub
+Visual Studio Code | Git/GitHub
 
-### 使用言語
-- 日本語
+### その他
 - 英語
   - 英検2級
   - IELTS B1
@@ -43,14 +41,13 @@ Render.com | Visual Studio Code | Git / GitHub
 
 【 [フロントエンドレポジトリ](https://github.com/MudaZero-org/Mealtime-FE) | 
 [バックエンドレポジトリ](https://github.com/MudaZero-org/Mealtime-BE) | 
-[レンダリング済サイト](www.mealtime-web.com) 】
+[レンダリング済サイト](https://www.mealtime-web.com/) 】
 
 #### 開発における役割
-- Express.js、Knex.js、dotenvを用いてサーバー、データベースを構築
-- APIからデータを収集し、擬似的なAPIサーバーを作成
+- Express.js、Knex.js、dotenv、PostgreSQLを用いてサーバー、データベースを構築
+- APIとの通信を極力少なくするために、APIからデータを収集し、バックエンド内にライブラリを作成
 - ExpressサーバーからReactフロントへのHTTPルートを多数作成
-- 開発中、より良いデータのため、HTTPルートを多数改善
-- Bulma、Sass、Bootstrapsを用いてUIを改善
+- Bulma、Sass、Bootstrapを用いてUIを改善
 
 
 ### ReAnicaiton(ソロプロジェクト) (https://github.com/Ricccck/ReAnication)
@@ -62,29 +59,29 @@ Render.com | Visual Studio Code | Git / GitHub
 
 #### 開発における役割
 - アプリ自体の発想・企画
-- Express、Knex.js、dotenv等を用いて、サーバー、データベースを構築
+- Express.js、Knex.js、dotenv等を用いて、サーバー、データベースを構築
 - ExpressサーバーからReactフロントへのHTTPルートを多数作成
 - Socket.ioを用いて、リアルタイムの双方向通信を実現
-- jwtの実装によるログイン機能の追加
+- JWTの実装によるログイン機能の追加
 
 ### saga(継続プロジェクト) (https://github.com/ccp6-team3/Legecy-saga)
 <div class="date">11月 2022</div>
 
 *sagaは、人気の映画やテレビ番組を一箇所で検索し、自分のレビューを残すことができるように設計されたアプリケーションです。*<br>
-*このプロジェクトは、他チームからのレガシー(引き継ぎ)プロジェクトです。*
+*このプロジェクトは、他チームからの引き継ぎのプロジェクトです。*
 
 【 [フロント・バックエンドレポジトリ](https://github.com/ccp6-team3/Legecy-saga) 】
 
 #### 開発における役割
 - JWTを利用してサインアップ、サインイン、サインアウト機能を作成。
-- フロントエンドでサインアップ、サインイン、サインアウトのReactコンポーネントの作成。
+- サインアップ、サインイン、サインアウトのReactコンポーネントの作成。
 - サインアップ、サインイン、サインアウトのコンポーネントをCSSで装飾。
-- フロントエンドでProfileのReactコンポーネントを作成。
+- でProfileのReactコンポーネントを作成。
 
 
 ## 教育・研修・資格取得
 ### 情報科学専攻（ダブルメジャー）
-桜美林大学 | 4.2021 - 3.2023
+桜美林大学 | 4月 2021 - 3月 2023
 - **『プログラミングI・II』** にて、Javaの基礎概念と基本を学習
 - **『Webページプログラミング』** にて、HTML・CSSを利用してWebページを作成
 - **『マルチメディア表現I』** にて、Photoshop、Illustratorを使用して画像作品を多数作成
@@ -93,10 +90,11 @@ Render.com | Visual Studio Code | Git / GitHub
 - **『応用表計算』** にて、Excelの使用方法を学習
 
 ### メディア専攻（ダブルメジャー）
-桜美林大学 | 4.2021 - 3.2023
+桜美林大学 | 4月 2021 - 3月 2023
 - **『子供とメディア』** にて、中学生の情報リテラシーに関する授業を作成・発表
 - **『女性とメディア』** にて、ジェンダー問題や女性表象について学習
 
 ### Advanced Engneering Program
-Code Chrysalis | Tokyo | 7.2022 - 2.2023
+Code Chrysalis | Tokyo | 7月 2022 - 2月 2023
 - Full Stack development with agile methodologies
+- created app by Python & Pygame.

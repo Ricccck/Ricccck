@@ -8,7 +8,7 @@
 ### Rick Usui
 Japanese, Tokyo
 
-+81 80-1347-7717 | rick.2000u@gmail.com <br>
+rick.2000u@gmail.com <br>
 [GitHub](https://github.com/Ricccck) | [Linkdin](https://www.linkedin.com/in/ricccck-usui/)
 
 
@@ -17,7 +17,7 @@ Japanese, Tokyo
 JavaScript | Java | Python
 
 ### Front-end
-Node.js | React.js | HTML / CSS | Material UI | SASS | Boostrap.js | Bulma
+React.js | HTML / CSS | Material UI | SASS | Boostrap | Bulma
 
 ### Back-end
 Node.js | Express.js | Socket.io | knex.js | PostgreSQL <br> JWT | dotenv | bcrypt | axios | Amazon Web Services
@@ -38,10 +38,10 @@ Render.com | Visual Studio Code | Git / GitHub
 
 [Front end Repository](https://github.com/MudaZero-org/Mealtime-FE) | 
 [Back end Repository](https://github.com/MudaZero-org/Mealtime-BE) | 
-[Deploy on Docker](www.mealtime-web.com)
+[Deploy on Docker]([https://](https://www.mealtime-web.com/))
 
 #### My role on development
-- Created backend server and database by using Express.js, Knex.js, dotenv.
+- Created backend server and database by using Express.js, Knex.js, dotenv, PostgreSQL.
 - Create Dammy database by using Spoonacular API, Postman.
 - Create routes from Express server to React front end.
 - While developping, improve many  HTTP routes.
