@@ -37,8 +37,7 @@ Render.com | Visual Studio Code | Git / GitHub
 *Mealtime gives businesses the ability to generate ready-to-cook meal packs to sell to their customers.*
 
 [Front end Repository](https://github.com/MudaZero-org/Mealtime-FE) | 
-[Back end Repository](https://github.com/MudaZero-org/Mealtime-BE) | 
-Deploy on Docker
+[Back end Repository](https://github.com/MudaZero-org/Mealtime-BE) 
 
 #### My role on development
 - Created backend server and database by using Express.js, Knex.js, dotenv, PostgreSQL.
