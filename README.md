@@ -38,7 +38,7 @@ Render.com | Visual Studio Code | Git / GitHub
 
 [Front end Repository](https://github.com/MudaZero-org/Mealtime-FE) | 
 [Back end Repository](https://github.com/MudaZero-org/Mealtime-BE) | 
-[Deploy on Docker](https://www.mealtime-web.com))
+Deploy on Docker
 
 #### My role on development
 - Created backend server and database by using Express.js, Knex.js, dotenv, PostgreSQL.
