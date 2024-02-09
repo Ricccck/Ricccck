@@ -40,8 +40,7 @@ Visual Studio Code | Git/GitHub
 *4人のチームによるチームプロジェクト*
 
 【 [フロントエンドレポジトリ](https://github.com/MudaZero-org/Mealtime-FE) | 
-[バックエンドレポジトリ](https://github.com/MudaZero-org/Mealtime-BE) | 
-[レンダリング済サイト](https://www.mealtime-web.com/) 】
+[バックエンドレポジトリ](https://github.com/MudaZero-org/Mealtime-BE)
 
 #### 開発における役割
 - Express.js、Knex.js、dotenv、PostgreSQLを用いてサーバー、データベースを構築
